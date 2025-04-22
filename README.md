@@ -11,6 +11,6 @@ Begegnungen mit narzistischen Persönlichkeiten und verliebten Büromenschen, di
 
 https://github.com/user-attachments/assets/e3b28160-d423-4313-8db4-d127a7f55523
 
-
+See Walkthrough Version 0.7: https://youtu.be/cLh8EJ100ug
 
 
