@@ -6,8 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    path: Assets/PersonalProjectREB/Scenes/01_eMaginary.unity
+    guid: f12d48ff1b8ac3f4193b5074338a3c2c
+  - enabled: 1
+    path: Assets/PersonalProjectREB/Scenes/02_eMaginary cave.unity
+    guid: af4d1041fcf809842becad685c417e9e
+  - enabled: 1
+    path: Assets/PersonalProjectREB/Scenes/03_eMaginary GolfOrDance.unity
+    guid: 8dda07f1b9494004fb5abea133d5280e
+  - enabled: 1
+    path: Assets/PersonalProjectREB/Scenes/04a_Dialogue Random Answer.unity
+    guid: c1e70ad8e087efd4eb7fa41a73f1c7d1
+  m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
