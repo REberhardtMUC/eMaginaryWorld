@@ -89,6 +89,7 @@ namespace eMaginary.StateManagement
         }
         protected void FollowPerson()
         {
+            anim.applyRootMotion = false;
             float distanceXabs = Math.Abs(charFollowed_A.transform.position.x - charFollowing.transform.position.x);
             float distanceYabs = Math.Abs(charFollowed_A.transform.position.y - charFollowing.transform.position.y);
 

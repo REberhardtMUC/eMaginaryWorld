@@ -10016,6 +10016,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 7a41b6111613e1048b2f55fa1e2512b9, type: 2}
+    - target: {fileID: 5866666021909216657, guid: b893cbd174ad7a9448051e0542445be1, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6250409095508506177, guid: b893cbd174ad7a9448051e0542445be1, type: 3}
       propertyPath: m_LocalRotation.x
       value: -0.08511924
@@ -36719,6 +36723,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 78f7237f10f23774a8acf965bc9dfd8e, type: 2}
+    - target: {fileID: 5866666021909216657, guid: eb882f57bc2b99d4d85710797e3bfe40, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -46287,9 +46295,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lili_AllInOne
       objectReference: {fileID: 0}
+    - target: {fileID: 3455614236271278931, guid: 257ff2dafdb30a54b9d8da355920e83d, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4821259199974152031, guid: 257ff2dafdb30a54b9d8da355920e83d, type: 3}
       propertyPath: moveSpeed_fast
       value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 7522019529393913729, guid: 257ff2dafdb30a54b9d8da355920e83d, type: 3}
+      propertyPath: m_Name
+      value: Lili-Cam
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

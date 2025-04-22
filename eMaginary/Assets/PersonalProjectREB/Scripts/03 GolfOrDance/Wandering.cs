@@ -22,6 +22,7 @@ namespace eMaginary.StateManagement
 
         public override void Enter()
         {
+            anim.applyRootMotion = false;
             anim.SetTrigger("isWalking");
             base.Enter();
         }
