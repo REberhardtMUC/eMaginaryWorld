@@ -1,0 +1,454 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7369365284279409575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 38cb79cf-b397-4a31-8038-16e99bf81657
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Ja, aber er kennt unser Tagesgesch\xE4ft nicht. Vielleicht w\xFCrde
+    er anders entscheiden, wenn er w\xFCsste, was wir wissen."
+  childNodes:
+  - 2a735df5-7876-4d00-8976-ddb6712fc230
+  rect:
+    serializedVersion: 2
+    x: 499.77362
+    y: 27.169922
+    width: 200
+    height: 150
+  angerLevel: 40
+  isNonViolentAnswer: 1
+--- !u!114 &-7092531977171409273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: b4c31028-c850-4673-ae57-96a1878e6770
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Holen wir uns doch mal Ed dazu.
+  childNodes: []
+  rect:
+    serializedVersion: 2
+    x: 2994.9434
+    y: 212.83035
+    width: 200
+    height: 150
+  angerLevel: 100
+  isNonViolentAnswer: 0
+--- !u!114 &-5823543036732808178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 6e0b2d96-2a70-42f6-b91c-01fb955c3061
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Du h\xE4ltst dich also f\xFCr kl\xFCger als der Chef? Das ist anma\xDFend!"
+  childNodes:
+  - 66702f35-f2b4-4823-ad47-4e7c1dc00df1
+  rect:
+    serializedVersion: 2
+    x: 1641.434
+    y: 17.207626
+    width: 200
+    height: 150
+  angerLevel: 70
+  isNonViolentAnswer: 0
+--- !u!114 &-5719721914737754018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: df23ed05-5318-47f9-ac00-aa59ce0aabbb
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: 'Ich akzeptiere voll und ganz, dass er der Chef ist. Nochmal: er
+    kann machen, was er will. Aber ich glaube, ihm fehlt die Entscheidungsgrundlage.'
+  childNodes:
+  - d3c1082d-8121-4625-9500-6eecb2dc70ff
+  - 6e0b2d96-2a70-42f6-b91c-01fb955c3061
+  rect:
+    serializedVersion: 2
+    x: 1416
+    y: 190.18878
+    width: 200
+    height: 150
+  angerLevel: 40
+  isNonViolentAnswer: 1
+--- !u!114 &-5321295688556812295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 2a735df5-7876-4d00-8976-ddb6712fc230
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Der Chef hat mir das gestern beim Mittagessen aufgetragen und deshalb
+    machen wir das jetzt so.
+  childNodes:
+  - 43392d59-25a3-4af1-94a3-ee9600ed55ee
+  rect:
+    serializedVersion: 2
+    x: 775.92456
+    y: 193.81143
+    width: 200
+    height: 150
+  angerLevel: 20
+  isNonViolentAnswer: 0
+--- !u!114 &-1345913929962075170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: a23f0590-fe2e-44d1-8663-5772d0fe2ba8
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Ich spreche ihm ja keine Kompetenzen ab. Aber er kennt nicht unser
+    Tagesgesch\xE4ft."
+  childNodes:
+  - 4df917df-cf6f-4372-b5e7-496590e2ddff
+  rect:
+    serializedVersion: 2
+    x: 1858.7168
+    y: 192.00018
+    width: 200
+    height: 150
+  angerLevel: 50
+  isNonViolentAnswer: 1
+--- !u!114 &-180430408957843611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 73315846-c1fd-4335-8c31-3c40bacccd04
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Es geht ja nicht darum, ihm zu widersprechen, sondern es geht darum,
+    ihn zu beraten.
+  childNodes:
+  - 2a735df5-7876-4d00-8976-ddb6712fc230
+  - 4df917df-cf6f-4372-b5e7-496590e2ddff
+  rect:
+    serializedVersion: 2
+    x: 509.73575
+    y: 273.50955
+    width: 200
+    height: 150
+  angerLevel: 30
+  isNonViolentAnswer: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bbdec21d561b9a4fb5c446c163a592d, type: 3}
+  m_Name: Dialogue_Lili_Ken
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 1765022239135442204}
+  - {fileID: 8825498179730013159}
+  - {fileID: -7369365284279409575}
+  - {fileID: -180430408957843611}
+  - {fileID: -5321295688556812295}
+  - {fileID: 7256298886705649729}
+  - {fileID: 6942507860061442299}
+  - {fileID: -5719721914737754018}
+  - {fileID: 3793658805788395456}
+  - {fileID: -1345913929962075170}
+  - {fileID: 1358361710083255320}
+  - {fileID: 4275449661342821535}
+  - {fileID: 3113380678304119122}
+  - {fileID: 5703087929533495756}
+  - {fileID: -5823543036732808178}
+  - {fileID: 2948332111560712689}
+  - {fileID: -7092531977171409273}
+--- !u!114 &1358361710083255320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 4df917df-cf6f-4372-b5e7-496590e2ddff
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Wir machen das jetzt so. Leg alles andere beiseite. Das hat jetzt
+    h\xF6chste Priorit\xE4t."
+  childNodes:
+  - 2865c6ef-be44-443b-b379-3b34d8c79128
+  rect:
+    serializedVersion: 2
+    x: 2078.7168
+    y: 358.64166
+    width: 200
+    height: 150
+  angerLevel: 70
+  isNonViolentAnswer: 0
+--- !u!114 &1765022239135442204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 03c0fc07-4cb4-4e2e-bb68-948fe4e04748
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Warum hast du dem Chef gegen\xFCber nicht \"nein\" gesagt?"
+  childNodes:
+  - 19f45236-863a-4a0f-a74b-90794d89da82
+  rect:
+    serializedVersion: 2
+    x: 52.528336
+    y: 152.15105
+    width: 200
+    height: 200
+  angerLevel: 50
+  isNonViolentAnswer: 1
+--- !u!114 &2948332111560712689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 66702f35-f2b4-4823-ad47-4e7c1dc00df1
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Aber woher soll der Chef denn wissen, was diese Entscheidung f\xFCr
+    uns in der Abteilung hei\xDFt, wenn es ihm niemand sagt? Er kann doch nicht hellsehen."
+  childNodes:
+  - 06fb3794-f1bc-4f75-91ae-a688ffd39d3c
+  rect:
+    serializedVersion: 2
+    x: 2182.0376
+    y: 18.113281
+    width: 200
+    height: 150
+  angerLevel: 70
+  isNonViolentAnswer: 1
+--- !u!114 &3113380678304119122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 28429f0f-2aee-409c-ac68-96a6bc1c13ea
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Wenn alles die h\xF6chste Priorit\xE4t hat, ist das Setzen von Priori\xE4ten
+    absolut sinnfrei."
+  childNodes:
+  - 06fb3794-f1bc-4f75-91ae-a688ffd39d3c
+  rect:
+    serializedVersion: 2
+    x: 2543.17
+    y: 345.0567
+    width: 200
+    height: 150
+  angerLevel: 40
+  isNonViolentAnswer: 1
+--- !u!114 &3793658805788395456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: d3c1082d-8121-4625-9500-6eecb2dc70ff
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "H\xF6r mal, er hat die Firma gegr\xFCndet. Hat sich aus dem Nichts
+    hochgearbeitet. Zu einer Firma mit 500 Mitarbeitern. Das ist doch was."
+  childNodes:
+  - a23f0590-fe2e-44d1-8663-5772d0fe2ba8
+  rect:
+    serializedVersion: 2
+    x: 1637.8113
+    y: 188.37747
+    width: 200
+    height: 150
+  angerLevel: 40
+  isNonViolentAnswer: 0
+--- !u!114 &4275449661342821535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 2865c6ef-be44-443b-b379-3b34d8c79128
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Ich habe einen Stapel an unerledigter Aufgaben, weil immer neue
+    Aufgaben reinkommen, die immer die h\xF6chste Priorit\xE4t haben."
+  childNodes:
+  - 28429f0f-2aee-409c-ac68-96a6bc1c13ea
+  rect:
+    serializedVersion: 2
+    x: 2311.3958
+    y: 356.83032
+    width: 200
+    height: 150
+  angerLevel: 30
+  isNonViolentAnswer: 1
+--- !u!114 &5703087929533495756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 06fb3794-f1bc-4f75-91ae-a688ffd39d3c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Wir machen das jetzt so, wie ich es gesagt habe. Ich bin immernoch
+    dein Chef!
+  childNodes:
+  - b4c31028-c850-4673-ae57-96a1878e6770
+  rect:
+    serializedVersion: 2
+    x: 2770.415
+    y: 212.83035
+    width: 200
+    height: 150
+  angerLevel: 100
+  isNonViolentAnswer: 0
+--- !u!114 &6942507860061442299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: fe1af684-af04-4b7b-a184-429a708654a9
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Er ist der Chef, das musst du akzeptieren.
+  childNodes:
+  - df23ed05-5318-47f9-ac00-aa59ce0aabbb
+  rect:
+    serializedVersion: 2
+    x: 1201.434
+    y: 193.81143
+    width: 200
+    height: 150
+  angerLevel: 30
+  isNonViolentAnswer: 0
+--- !u!114 &7256298886705649729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 43392d59-25a3-4af1-94a3-ee9600ed55ee
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Hast du dem Chef denn gesagt, dass uns das auf die F\xFC\xDFe f\xE4llt,
+    wenn wir das so machen?"
+  childNodes:
+  - fe1af684-af04-4b7b-a184-429a708654a9
+  rect:
+    serializedVersion: 2
+    x: 981.43396
+    y: 194.71709
+    width: 200
+    height: 150
+  angerLevel: 20
+  isNonViolentAnswer: 1
+--- !u!114 &8825498179730013159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 19f45236-863a-4a0f-a74b-90794d89da82
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Es ist seine Firma, er kann mit seiner Firma machen, was er will.
+  childNodes:
+  - 38cb79cf-b397-4a31-8038-16e99bf81657
+  - 73315846-c1fd-4335-8c31-3c40bacccd04
+  rect:
+    serializedVersion: 2
+    x: 280.67923
+    y: 178.41522
+    width: 200
+    height: 150
+  angerLevel: 40
+  isNonViolentAnswer: 0

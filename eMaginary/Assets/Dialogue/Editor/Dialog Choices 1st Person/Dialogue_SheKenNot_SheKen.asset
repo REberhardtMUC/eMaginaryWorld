@@ -1,0 +1,498 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9090167332132349791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 49588f95-eeb5-4707-9316-697703837071
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Ganz im Gegenteil. Bei dir macht es mich sogar an.
+  childNodes:
+  - b17eef6a-0f3c-4af8-9370-603acaaaeffa
+  rect:
+    serializedVersion: 2
+    x: 890.9435
+    y: 30.792511
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-9037764435213237761
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: a76cfeee-a9ac-46c5-bca7-3744bf636372
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Ja, dacht ichs mir schon. Nimm halt die M\xE4nner im Schutz. So
+    von wegen \"die k\xF6nnen halt nicht anders\"."
+  childNodes:
+  - 80f1b580-c49c-46aa-a66f-44650f2a9bd3
+  rect:
+    serializedVersion: 2
+    x: 893.66046
+    y: 181.13214
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-3289292582445769883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 05be65ac-f783-4910-8b3b-bd5a2d4523ee
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Ist halt nicht jeder so zugekn\xF6pft wie du."
+  childNodes:
+  - 2ad0943a-0e6e-451d-a152-462a3b09e9da
+  rect:
+    serializedVersion: 2
+    x: 890.0378
+    y: 498.11322
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-631249280475569178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 4754ccfd-0438-4013-9051-b624d8df142f
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Danke. Das hat mich heute Morgen angelacht.
+  childNodes: []
+  rect:
+    serializedVersion: 2
+    x: 383.92453
+    y: 36.22644
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-304344720726574462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 56614be3-3f97-4cea-9ad4-c3db6bf4bcb8
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Du hast mich zuerst beleidigt.
+  childNodes:
+  - 80f1b580-c49c-46aa-a66f-44650f2a9bd3
+  rect:
+    serializedVersion: 2
+    x: 1348.1508
+    y: 559.6981
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bbdec21d561b9a4fb5c446c163a592d, type: 3}
+  m_Name: Dialogue_SheKenNot_SheKen
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 1765022239135442204}
+  - {fileID: -631249280475569178}
+  - {fileID: 4911481264542924734}
+  - {fileID: 4617686131444860942}
+  - {fileID: 7597159376714702707}
+  - {fileID: 314310677473346564}
+  - {fileID: -3289292582445769883}
+  - {fileID: 455425895468670809}
+  - {fileID: 1475779508605857854}
+  - {fileID: -304344720726574462}
+  - {fileID: 1155981370366019437}
+  - {fileID: 6213033319745628900}
+  - {fileID: -9090167332132349791}
+  - {fileID: -9037764435213237761}
+  - {fileID: 1106246943943060233}
+  - {fileID: 3087313285671062273}
+  - {fileID: 7665985537338591370}
+  - {fileID: 2069487547392073581}
+  - {fileID: 6913945948559025213}
+--- !u!114 &314310677473346564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 315ac641-7b79-4dd0-8cbf-f8a2494c960a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Dass das ein sehr sexy Outfit ist.
+  childNodes:
+  - 05be65ac-f783-4910-8b3b-bd5a2d4523ee
+  - 93b832ce-e109-4257-8e68-1037d63ffdd7
+  rect:
+    serializedVersion: 2
+    x: 617.50946
+    y: 480.00003
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &455425895468670809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 93b832ce-e109-4257-8e68-1037d63ffdd7
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Danke - mir war heute nach \"sexy\". Habe sp\xE4ter noch ein Date.
+    Mal schauen, ob er anbeisst."
+  childNodes:
+  - 0f1bafca-a9bd-48e3-89cf-fa5ee636d748
+  rect:
+    serializedVersion: 2
+    x: 892.7547
+    y: 658.41504
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &1106246943943060233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: b17eef6a-0f3c-4af8-9370-603acaaaeffa
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "\xC4h, ok.  Nein, so war das nicht gemeint."
+  childNodes:
+  - 2d4981b7-9499-452f-826d-056decf81f29
+  - 10f801b8-6bd6-45fd-9d04-41978f396883
+  rect:
+    serializedVersion: 2
+    x: 1111.8491
+    y: 31.698174
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &1155981370366019437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 2ee43838-bfde-4390-81ee-4a017145873d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Wusste doch gleich, dass du lesbisch bist.
+  childNodes:
+  - 2ad0943a-0e6e-451d-a152-462a3b09e9da
+  rect:
+    serializedVersion: 2
+    x: 890.9434
+    y: 333.2832
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &1475779508605857854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 2ad0943a-0e6e-451d-a152-462a3b09e9da
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Und warum beleidigst du mich jetzt?
+  childNodes:
+  - 56614be3-3f97-4cea-9ad4-c3db6bf4bcb8
+  - fb77dba4-78be-4bb3-9fff-5c1ee28f6f62
+  rect:
+    serializedVersion: 2
+    x: 1121.8113
+    y: 421.13208
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &1765022239135442204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 03c0fc07-4cb4-4e2e-bb68-948fe4e04748
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Wow, gewagtes Outfit heute. Hei\xDF!"
+  childNodes:
+  - 4754ccfd-0438-4013-9051-b624d8df142f
+  - b73dde31-02c1-4fdd-b185-c0954d5d09af
+  - 73143ffa-7bae-4276-af95-21f5c6e83c0b
+  rect:
+    serializedVersion: 2
+    x: 96.000046
+    y: 220.07553
+    width: 200
+    height: 200
+  angerLevel: 0
+  isNonViolentAnswer: 1
+--- !u!114 &2069487547392073581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 10f801b8-6bd6-45fd-9d04-41978f396883
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Nur nicht so sch\xFCchtern. "
+  childNodes:
+  - 80f1b580-c49c-46aa-a66f-44650f2a9bd3
+  rect:
+    serializedVersion: 2
+    x: 1351.7736
+    y: 142.18875
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &3087313285671062273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 0f1bafca-a9bd-48e3-89cf-fa5ee636d748
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Ah, na dann: viel Spa\xDF und viel Erfolg."
+  childNodes: []
+  rect:
+    serializedVersion: 2
+    x: 1111.8489
+    y: 657.50946
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &4617686131444860942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: f6ea5739-bdcc-47dd-ad25-962cca8838a5
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Mein Blick ist auch als erstes auf deinen Ausschnitt gefallen. Bin
+    ich jetzt auch widerlich?
+  childNodes:
+  - 2ee43838-bfde-4390-81ee-4a017145873d
+  - 49588f95-eeb5-4707-9316-697703837071
+  - a76cfeee-a9ac-46c5-bca7-3744bf636372
+  rect:
+    serializedVersion: 2
+    x: 628.37744
+    y: 192.9057
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &4911481264542924734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: b73dde31-02c1-4fdd-b185-c0954d5d09af
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Boah, alle starren mir in den Ausschnitt. M\xE4nner sind so widerlich."
+  childNodes:
+  - f6ea5739-bdcc-47dd-ad25-962cca8838a5
+  rect:
+    serializedVersion: 2
+    x: 384.83032
+    y: 193.8114
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &6213033319745628900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: fb77dba4-78be-4bb3-9fff-5c1ee28f6f62
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Ich hab dich doch gar nicht beleidigt. Du sagst, ich laufe rum wie
+    ne Schlampe, ich sagt, du l\xE4ufst rum wie ne Nonne."
+  childNodes:
+  - 80f1b580-c49c-46aa-a66f-44650f2a9bd3
+  rect:
+    serializedVersion: 2
+    x: 1343.6224
+    y: 399.39624
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &6913945948559025213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 80f1b580-c49c-46aa-a66f-44650f2a9bd3
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Ok. Ciao.
+  childNodes: []
+  rect:
+    serializedVersion: 2
+    x: 1677.736
+    y: 296.151
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &7597159376714702707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 73143ffa-7bae-4276-af95-21f5c6e83c0b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Wie meinst du das jetzt?
+  childNodes:
+  - 315ac641-7b79-4dd0-8cbf-f8a2494c960a
+  rect:
+    serializedVersion: 2
+    x: 375.77362
+    y: 480.90573
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &7665985537338591370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 2d4981b7-9499-452f-826d-056decf81f29
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Wenn du es dir anders \xFCberlegst ... du wei\xDFt, wo du mich findest."
+  childNodes:
+  - 80f1b580-c49c-46aa-a66f-44650f2a9bd3
+  rect:
+    serializedVersion: 2
+    x: 1349.9623
+    y: -3.6225967
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0

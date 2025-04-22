@@ -1,0 +1,428 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8841314661109204562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 2bea3287-c052-4c45-8bb3-743091dc6930
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Und du w\xFCrdest gut Provisionen abkassieren. Mit deinem Charme
+    wickelst du sie alle um den Finger."
+  childNodes:
+  - 6578245c-602d-47ae-9f16-f21b8f3989de
+  rect:
+    serializedVersion: 2
+    x: 2389.2832
+    y: 11.773575
+    width: 200
+    height: 150
+  angerLevel: 80
+  isNonViolentAnswer: 0
+--- !u!114 &-6947122332444282516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: cb99809e-94b3-44a0-8fec-571e1c01b949
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Ich wei\xDF, du meinst es nett, aber es f\xFChlt sich \xFCbergriffig
+    an."
+  childNodes:
+  - e3e427aa-e0a3-4505-b442-5e0753eccccd
+  rect:
+    serializedVersion: 2
+    x: 1690.3398
+    y: 218.26411
+    width: 200
+    height: 150
+  angerLevel: 20
+  isNonViolentAnswer: 1
+--- !u!114 &-4531129774376667402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 45bf9f45-545f-4df0-b7f2-849e59d5e4c4
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Ich interessiere mich nicht f\xFCr den Vertrieb."
+  childNodes:
+  - af16f190-5c37-4999-b124-f1fc0e86daf0
+  rect:
+    serializedVersion: 2
+    x: 1694.8679
+    y: 16.301865
+    width: 200
+    height: 150
+  angerLevel: 40
+  isNonViolentAnswer: 0
+--- !u!114 &-38822411347331858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 6578245c-602d-47ae-9f16-f21b8f3989de
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: 'Lass es mich deutlicher sagen: Ich finde die Vorstellung, im Vertrieb
+    zu arbeiten, grauenhaft.'
+  childNodes:
+  - e3e427aa-e0a3-4505-b442-5e0753eccccd
+  rect:
+    serializedVersion: 2
+    x: 2609.2832
+    y: 10.86792
+    width: 200
+    height: 150
+  angerLevel: 90
+  isNonViolentAnswer: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bbdec21d561b9a4fb5c446c163a592d, type: 3}
+  m_Name: Dialogue_Ed_Lili
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 4808274665290189883}
+  - {fileID: 1522510451943405376}
+  - {fileID: 7607768566350097574}
+  - {fileID: 1674135319534459428}
+  - {fileID: 5558530834590005389}
+  - {fileID: 678982141914911822}
+  - {fileID: 3160106908803032146}
+  - {fileID: -6947122332444282516}
+  - {fileID: 8169891381134894637}
+  - {fileID: 3118606550630497421}
+  - {fileID: 2937576522917917877}
+  - {fileID: -4531129774376667402}
+  - {fileID: 7104171610512738298}
+  - {fileID: 7823491671309571845}
+  - {fileID: -8841314661109204562}
+  - {fileID: -38822411347331858}
+--- !u!114 &678982141914911822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: f5508670-d846-4db7-8fb1-0a162b3ee7a7
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Ich arbeite schon lange in der Entwicklung. Ich bin sehr zufrieden
+    mit meinem Arbeitsumfeld und habe keinen Bedarf, etwas zu \xE4ndern."
+  childNodes:
+  - c05621c2-c7d7-45e8-b25c-f35d886ae462
+  rect:
+    serializedVersion: 2
+    x: 1192.3774
+    y: 212.8302
+    width: 200
+    height: 150
+  angerLevel: 20
+  isNonViolentAnswer: 1
+--- !u!114 &1522510451943405376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 319bf00f-21cf-4e29-ab5c-2fdc8932b117
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Vielleicht hast du einen anderen Blick auf Menschen von aussen.
+  childNodes:
+  - 051472fe-c9d0-4a51-8901-40a8221858d5
+  rect:
+    serializedVersion: 2
+    x: 213.6604
+    y: 126.79239
+    width: 200
+    height: 150
+  angerLevel: 30
+  isNonViolentAnswer: 1
+--- !u!114 &1674135319534459428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 212a3539-0ef6-4def-b85e-36af2ed1c397
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Vertrieb ist nicht mein Ding. Ich bin eher der Kreative, der Macher
+    und nicht der Verk\xE4ufer."
+  childNodes:
+  - e3f54053-508a-47fd-ba0f-013fdd85a67b
+  - 27cfb847-b713-4d67-bf5e-3abe485ea3b2
+  rect:
+    serializedVersion: 2
+    x: 683.54724
+    y: 110.49057
+    width: 200
+    height: 150
+  angerLevel: 10
+  isNonViolentAnswer: 1
+--- !u!114 &2937576522917917877
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 4e6d03bb-1644-4f1c-925c-93bd17f5a43c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Das ist weniger ein Talent als \xDCbung. Ich habe lange Zeit als
+    Trainerin gearbeitet und bin es gewohnt, vor Menschen zu stehen und ihnen etwas
+    zu erkl\xE4ren."
+  childNodes:
+  - c05621c2-c7d7-45e8-b25c-f35d886ae462
+  rect:
+    serializedVersion: 2
+    x: 1194.1888
+    y: 53.433975
+    width: 200
+    height: 150
+  angerLevel: 40
+  isNonViolentAnswer: 1
+--- !u!114 &3118606550630497421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 27cfb847-b713-4d67-bf5e-3abe485ea3b2
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Aber ich habe gesehen, wie du Pr\xE4sentationen h\xE4ltst. Du hast
+    da wirklich ein Talent."
+  childNodes:
+  - f5508670-d846-4db7-8fb1-0a162b3ee7a7
+  - 4e6d03bb-1644-4f1c-925c-93bd17f5a43c
+  rect:
+    serializedVersion: 2
+    x: 908.07556
+    y: 48.000015
+    width: 200
+    height: 150
+  angerLevel: 20
+  isNonViolentAnswer: 0
+--- !u!114 &3160106908803032146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: c05621c2-c7d7-45e8-b25c-f35d886ae462
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Ich sehe in dir ganz klar die Vertrieblerin. Das ist dein Naturtalent.
+  childNodes:
+  - cb99809e-94b3-44a0-8fec-571e1c01b949
+  - 45bf9f45-545f-4df0-b7f2-849e59d5e4c4
+  rect:
+    serializedVersion: 2
+    x: 1425.0566
+    y: 148.5283
+    width: 200
+    height: 150
+  angerLevel: 30
+  isNonViolentAnswer: 0
+--- !u!114 &4808274665290189883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 685851ae-8cca-4895-b23a-2d4ddb17acda
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Ich habe so eine gute Menschenkenntnis. Ich kenne Menschen nach zwei
+    Sekunden besser, als sie sich selbst kennen.
+  childNodes:
+  - 319bf00f-21cf-4e29-ab5c-2fdc8932b117
+  rect:
+    serializedVersion: 2
+    x: -7.2452927
+    y: 120.452774
+    width: 200
+    height: 150
+  angerLevel: 80
+  isNonViolentAnswer: 0
+--- !u!114 &5558530834590005389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: e3f54053-508a-47fd-ba0f-013fdd85a67b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Glaubst du nicht?
+  childNodes:
+  - f5508670-d846-4db7-8fb1-0a162b3ee7a7
+  rect:
+    serializedVersion: 2
+    x: 910.7925
+    y: 216.45284
+    width: 200
+    height: 150
+  angerLevel: 60
+  isNonViolentAnswer: 0
+--- !u!114 &7104171610512738298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: af16f190-5c37-4999-b124-f1fc0e86daf0
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Sei doch nicht so abweisend. Gib dem Vertrieb doch mal eine Chance.
+    Ich bin mir sicher, dass du sehr erfolgreich darin sein wirst.
+  childNodes:
+  - b9eb95b6-7deb-411e-9514-2849aadbedb2
+  rect:
+    serializedVersion: 2
+    x: 1949.2831
+    y: 11.773575
+    width: 200
+    height: 150
+  angerLevel: 60
+  isNonViolentAnswer: 1
+--- !u!114 &7607768566350097574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 051472fe-c9d0-4a51-8901-40a8221858d5
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Kannst du mir glauben. Du zum Beispiel: Du w\xE4rst eine prima Vertrieblerin.
+    Da k\xF6nntest du dich sehr gut entwickeln."
+  childNodes:
+  - 212a3539-0ef6-4def-b85e-36af2ed1c397
+  rect:
+    serializedVersion: 2
+    x: 454.49063
+    y: 116.830185
+    width: 200
+    height: 150
+  angerLevel: 40
+  isNonViolentAnswer: 0
+--- !u!114 &7823491671309571845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: b9eb95b6-7deb-411e-9514-2849aadbedb2
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Ich interessiere mich nicht f\xFCr den Vertrieb."
+  childNodes:
+  - 2bea3287-c052-4c45-8bb3-743091dc6930
+  rect:
+    serializedVersion: 2
+    x: 2175.6228
+    y: 11.773575
+    width: 200
+    height: 150
+  angerLevel: 70
+  isNonViolentAnswer: 1
+--- !u!114 &8169891381134894637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: e3e427aa-e0a3-4505-b442-5e0753eccccd
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Warum bist du denn jetzt so aggressiv?
+  childNodes: []
+  rect:
+    serializedVersion: 2
+    x: 2877.585
+    y: 184.7547
+    width: 200
+    height: 150
+  angerLevel: 100
+  isNonViolentAnswer: 1

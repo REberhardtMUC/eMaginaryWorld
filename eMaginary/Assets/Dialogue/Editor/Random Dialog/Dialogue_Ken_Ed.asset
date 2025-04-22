@@ -1,0 +1,984 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9205973028123444833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: df9d512a-33cc-45b6-b5bf-92fce5edc723
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Du hast das Buch gelesen, prima. Das reicht schonmal f\xFCr den
+    Anfang."
+  childNodes:
+  - e1c8bbf0-7167-4dea-b6ef-3454141f7064
+  rect:
+    serializedVersion: 2
+    x: 3404.2266
+    y: 199.24529
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-9171149933303809526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 2745c2e3-6cb7-4bdb-b7b7-4d3979667be7
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "So, jetzt m\xFCssen wir mal wieder ein bisschen so tun, als w\xFCrden
+    wir arbeiten, wa? (Gel\xE4chter)"
+  childNodes:
+  - ee42f9e8-1645-4ee8-9e1e-ddd1e0c7c84d
+  rect:
+    serializedVersion: 2
+    x: 5017.8877
+    y: 13.584854
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-8699981353250936052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 40cd1660-160a-4c6a-b29c-da76bf5a2b85
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Nat\xFCrlich. So soll es sein. Aber mal links und rechts gucken
+    ist ja wohl erlaubt."
+  childNodes:
+  - 6d883432-a261-4c69-8f50-b49d16e43395
+  rect:
+    serializedVersion: 2
+    x: 2108.6035
+    y: 20.8302
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-8417486188873490841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 9fd062c1-620c-4412-9603-89b08c21a199
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Ja, nat\xFCrlich. Wir lieben alle unsere Frauen."
+  childNodes:
+  - e1c8bbf0-7167-4dea-b6ef-3454141f7064
+  rect:
+    serializedVersion: 2
+    x: 3202.264
+    y: 20.830208
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-7293529634600121425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: a5e92504-ca72-453f-8f4b-5195f8a4ad00
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Wie gehts der Frau Gemahlin?
+  childNodes:
+  - 5772baf3-5b98-4e82-a40c-d4dc36c424c5
+  rect:
+    serializedVersion: 2
+    x: 464.45276
+    y: 43.47171
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-6860566033537081883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 256a1d6a-6bdd-4c0a-9be0-df72335d1a54
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Mein Freund, wir verstehen uns.
+  childNodes:
+  - 66f00650-00cb-4338-a772-77f1734c13d8
+  rect:
+    serializedVersion: 2
+    x: 1183.3207
+    y: 211.01889
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-6615261396524480986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: ee42f9e8-1645-4ee8-9e1e-ddd1e0c7c84d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "(Gel\xE4chter)"
+  childNodes: []
+  rect:
+    serializedVersion: 2
+    x: 5290.4155
+    y: 91.471634
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-5805719621132922912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 6d883432-a261-4c69-8f50-b49d16e43395
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Die eine da, die den Chef letzte Woche vertreten hat, ..
+  childNodes:
+  - a2c25326-6ea0-46e9-99b7-c04feeb589f0
+  rect:
+    serializedVersion: 2
+    x: 2323.1694
+    y: 21.73587
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-5717531988736146624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: e1c8bbf0-7167-4dea-b6ef-3454141f7064
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Warst du schonmal auf Sylt?
+  childNodes:
+  - 7b98c25a-fbae-4aca-b78e-c76b4868c8ca
+  rect:
+    serializedVersion: 2
+    x: 3617.2078
+    y: 110.49054
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-4724704878108516764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 2c5b7cb9-a07f-47f0-bc95-e559eff705ad
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: This is a mans world ...
+  childNodes:
+  - 5846155b-8446-458c-98e3-61e9191a172b
+  rect:
+    serializedVersion: 2
+    x: 1187.849
+    y: 6.339615
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-2898171616315920251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 6290e3e9-2e9c-448d-b469-8d142532f28d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: '"Habe mein HCP auf -36 verbessert."'
+  childNodes:
+  - df9d512a-33cc-45b6-b5bf-92fce5edc723
+  rect:
+    serializedVersion: 2
+    x: 3199.6228
+    y: 202.86794
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-2268183884930318796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 1ea648b4-4ac9-456c-b5fe-1ce8f0f11e16
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "So, dann wollen wir mal wieder was tun f\xFCr unser Geld."
+  childNodes:
+  - ee42f9e8-1645-4ee8-9e1e-ddd1e0c7c84d
+  rect:
+    serializedVersion: 2
+    x: 5026.9443
+    y: 188.3773
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-2069365670010573292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 0b9a2d9e-78a0-4f88-a1c3-afd2071db803
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Ach - du denkst zuviel nach. Einfach mal machen! Geld flie\xDFt.
+    Wenn du es ausgibst, kommt es wieder rein."
+  childNodes:
+  - b7a797ad-c2da-4e92-bb07-7d9294ecffc9
+  rect:
+    serializedVersion: 2
+    x: 4265.359
+    y: 208.30182
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-1610840320689840474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: a2c25326-6ea0-46e9-99b7-c04feeb589f0
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Annelie ... Burger ...
+  childNodes:
+  - 4f33fb0c-9912-4c1d-874b-fc2d3db75755
+  rect:
+    serializedVersion: 2
+    x: 2543.1694
+    y: 21.73587
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-1340306461321287688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: ce1c5da8-3f29-41e9-85f2-7ea8fb52c659
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Mach, mein Junge. Gute Sache.
+  childNodes:
+  - 3f55d2a4-863e-4ef9-86bc-08bb3b7115f6
+  rect:
+    serializedVersion: 2
+    x: 1641.4338
+    y: 216.45285
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-1298881002465486080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 5846155b-8446-458c-98e3-61e9191a172b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: But it would be nothing without a woman ...
+  childNodes:
+  - bdaf1142-45d3-48bf-8801-3323846113a9
+  rect:
+    serializedVersion: 2
+    x: 1428.679
+    y: 25.35849
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-387405112519851395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 96a0f4ea-9e02-48f9-acde-97196d022801
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: 'Dann frag mal deine Frau, wann ihr Zeit habt und wir machen mal
+    ein langes Wochenende auf Sylt. '
+  childNodes:
+  - e9d0ea97-bbe3-451c-af53-93c6ee640f70
+  - 8bba2ca5-beaa-4118-8cdd-55b06adae605
+  rect:
+    serializedVersion: 2
+    x: 4128.7554
+    y: 112.301834
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-254736533094885721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: b7a797ad-c2da-4e92-bb07-7d9294ecffc9
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Und der Aktientipp neulich? Wenn du zugelangt hast, ist der Sylt-Trip
+    schon wieder drin.
+  childNodes:
+  - e9d0ea97-bbe3-451c-af53-93c6ee640f70
+  rect:
+    serializedVersion: 2
+    x: 4792.378
+    y: 287.09427
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-91582334582038438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: b60168d0-3bad-490b-b08b-32422e1c7a1d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Ich gehe n\xE4chstes Wochenende mit dem Chef golfen, dann schneide
+    ich das mal an. Dass du mehr Geld brauchst, f\xFCr deine Frau."
+  childNodes:
+  - dbf82418-4af9-4b2c-8c17-166d3759d02a
+  rect:
+    serializedVersion: 2
+    x: 2442.7173
+    y: 205.58492
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bbdec21d561b9a4fb5c446c163a592d, type: 3}
+  m_Name: Dialogue_Ken_Ed
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 6228984440915089216}
+  - {fileID: 6228984440915089216}
+  - {fileID: 6228984440915089216}
+  - {fileID: 2539518435920489183}
+  - {fileID: -7293529634600121425}
+  - {fileID: 6097166750311735686}
+  - {fileID: 1187873225042399664}
+  - {fileID: 5228290058170808939}
+  - {fileID: 3810896107606174966}
+  - {fileID: -6860566033537081883}
+  - {fileID: -4724704878108516764}
+  - {fileID: -1298881002465486080}
+  - {fileID: 6221613171253843343}
+  - {fileID: 583035841749227696}
+  - {fileID: -1340306461321287688}
+  - {fileID: 5501571489342900528}
+  - {fileID: 8950583573446591821}
+  - {fileID: -91582334582038438}
+  - {fileID: -5717531988736146624}
+  - {fileID: 6726159824210061460}
+  - {fileID: -387405112519851395}
+  - {fileID: 1580328779998360679}
+  - {fileID: -8699981353250936052}
+  - {fileID: -5805719621132922912}
+  - {fileID: -1610840320689840474}
+  - {fileID: 4499730140796139726}
+  - {fileID: 3268252163543749938}
+  - {fileID: -8417486188873490841}
+  - {fileID: 3482096057064413022}
+  - {fileID: 2988642414735683457}
+  - {fileID: -2898171616315920251}
+  - {fileID: -9205973028123444833}
+  - {fileID: 2810718896329141391}
+  - {fileID: 4573315415967710319}
+  - {fileID: -9171149933303809526}
+  - {fileID: -6615261396524480986}
+  - {fileID: -2268183884930318796}
+  - {fileID: 1995389719403107833}
+  - {fileID: -2069365670010573292}
+  - {fileID: -254736533094885721}
+--- !u!114 &583035841749227696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 66f00650-00cb-4338-a772-77f1734c13d8
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Meine Frau spricht will jetzt eine Eigentumswohnung kaufen. Auch
+    im Hinblick auf die Rente.
+  childNodes:
+  - ce1c5da8-3f29-41e9-85f2-7ea8fb52c659
+  rect:
+    serializedVersion: 2
+    x: 1420.5282
+    y: 212.8302
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &1187873225042399664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 3f3713f9-c973-43be-9242-2803dfdcebee
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Kann nicht klagen.
+  childNodes:
+  - 07481768-7e9d-4966-bb0f-235da1d538bf
+  rect:
+    serializedVersion: 2
+    x: 470.79248
+    y: 201.96225
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &1580328779998360679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 369cd995-b6ec-4ebd-bab4-52bf6fc674d7
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Ich liebe meine Frau.
+  childNodes:
+  - 40cd1660-160a-4c6a-b29c-da76bf5a2b85
+  rect:
+    serializedVersion: 2
+    x: 1875.9246
+    y: 20.83017
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &1995389719403107833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 8bba2ca5-beaa-4118-8cdd-55b06adae605
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Also, wir fahren im Herbst wieder f\xFCr drei Wochen weg. Da ist
+    unser Reisebudget eigentlich schon aufgebraucht."
+  childNodes:
+  - 0b9a2d9e-78a0-4f88-a1c3-afd2071db803
+  rect:
+    serializedVersion: 2
+    x: 4338.7935
+    y: 299.77356
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &2539518435920489183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 82931a8a-f4fd-42e3-bee2-514572516f93
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Ken! Alles fit im Schritt?
+  childNodes:
+  - a5e92504-ca72-453f-8f4b-5195f8a4ad00
+  - 3f3713f9-c973-43be-9242-2803dfdcebee
+  rect:
+    serializedVersion: 2
+    x: 210.03775
+    y: 70.64151
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &2810718896329141391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: e9d0ea97-bbe3-451c-af53-93c6ee640f70
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Dann gehen wir mal ins Gosch. Guter Laden.
+  childNodes:
+  - 54104b61-5e42-4a83-972b-a4521aa91cbb
+  rect:
+    serializedVersion: 2
+    x: 4490.9443
+    y: 68.83014
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &2988642414735683457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 4b10bf51-1399-47c5-b714-14d4c5be095d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Und du muss auch endlich mal golfen lernen. Ist eine Investition
+    f\xFCr die Zukunft. Du musst mitreden k\xF6nnen. Du musst deren Sprache sprechen."
+  childNodes:
+  - 6290e3e9-2e9c-448d-b469-8d142532f28d
+  rect:
+    serializedVersion: 2
+    x: 2979.6228
+    y: 202.86794
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &3268252163543749938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 1477b57f-2e1f-493a-a852-9fa4440e0ec1
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Ich liebe meine Frau.
+  childNodes:
+  - 9fd062c1-620c-4412-9603-89b08c21a199
+  rect:
+    serializedVersion: 2
+    x: 2982.264
+    y: 20.830208
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &3482096057064413022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: dbf82418-4af9-4b2c-8c17-166d3759d02a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Das... ist wirklich toll.
+  childNodes:
+  - 4b10bf51-1399-47c5-b714-14d4c5be095d
+  rect:
+    serializedVersion: 2
+    x: 2711.6228
+    y: 204.67924
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &3810896107606174966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 679817b0-e6eb-4c11-a6b3-b3a32448c5a3
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Alles f\xFCr die Firma, alles f\xFCr die Familie, du wei\xDFt ja,
+    wie das ist."
+  childNodes:
+  - 256a1d6a-6bdd-4c0a-9be0-df72335d1a54
+  - 2c5b7cb9-a07f-47f0-bc95-e559eff705ad
+  rect:
+    serializedVersion: 2
+    x: 944.3019
+    y: 112.301865
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &4499730140796139726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 4f33fb0c-9912-4c1d-874b-fc2d3db75755
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Die war doch was. War doch dein Typ, oder? Hast dich doch nett mit
+    ihr unterhalten. Oder?
+  childNodes:
+  - 1477b57f-2e1f-493a-a852-9fa4440e0ec1
+  rect:
+    serializedVersion: 2
+    x: 2763.1694
+    y: 21.73587
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &4573315415967710319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 54104b61-5e42-4a83-972b-a4521aa91cbb
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: Machen wir.
+  childNodes:
+  - 2745c2e3-6cb7-4bdb-b7b7-4d3979667be7
+  - 1ea648b4-4ac9-456c-b5fe-1ce8f0f11e16
+  rect:
+    serializedVersion: 2
+    x: 4761.661
+    y: 81.50937
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &5228290058170808939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 07481768-7e9d-4966-bb0f-235da1d538bf
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Was gibts Neues min Jung?
+  childNodes:
+  - 679817b0-e6eb-4c11-a6b3-b3a32448c5a3
+  rect:
+    serializedVersion: 2
+    x: 690.79254
+    y: 203.77353
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &5501571489342900528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 3f55d2a4-863e-4ef9-86bc-08bb3b7115f6
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Aber dazu m\xFCsste sie wieder arbeiten gehen. Wie soll ich das
+    finanziell stemmen?"
+  childNodes:
+  - 2f9764c3-84b8-453a-8d1e-fa4f01a9972f
+  rect:
+    serializedVersion: 2
+    x: 1895.8489
+    y: 214.64154
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &6097166750311735686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 5772baf3-5b98-4e82-a40c-d4dc36c424c5
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Alles Bestens. Und bei dir daheim?
+  childNodes:
+  - 679817b0-e6eb-4c11-a6b3-b3a32448c5a3
+  rect:
+    serializedVersion: 2
+    x: 693.5094
+    y: 43.47171
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &6221613171253843343
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: bdaf1142-45d3-48bf-8801-3323846113a9
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: ... or a girl ;)
+  childNodes:
+  - 369cd995-b6ec-4ebd-bab4-52bf6fc674d7
+  rect:
+    serializedVersion: 2
+    x: 1660.4528
+    y: 20.8302
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &6228984440915089216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: f5c97359-1846-4983-a465-2c0f881a5521
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Ed, ich gr\xFC\xDFe dich."
+  childNodes:
+  - 82931a8a-f4fd-42e3-bee2-514572516f93
+  rect:
+    serializedVersion: 2
+    x: 3.6226501
+    y: 71.54718
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &6726159824210061460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 7b98c25a-fbae-4aca-b78e-c76b4868c8ca
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Ein Freund hat mir erz\xE4hlt, dass man dort gut essen kann."
+  childNodes:
+  - 96a0f4ea-9e02-48f9-acde-97196d022801
+  rect:
+    serializedVersion: 2
+    x: 3868.9058
+    y: 114.113235
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &8950583573446591821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 2f9764c3-84b8-453a-8d1e-fa4f01a9972f
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Bloss nicht. Dann ist sie abends m\xFCde und kocht nicht mehr f\xFCr
+    dich. Und sie ist zu gestresst f\xFCr ... du weisst schon was ..."
+  childNodes:
+  - b60168d0-3bad-490b-b08b-32422e1c7a1d
+  rect:
+    serializedVersion: 2
+    x: 2181.9622
+    y: 205.58493
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0

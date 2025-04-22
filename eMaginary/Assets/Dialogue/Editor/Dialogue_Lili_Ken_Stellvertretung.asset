@@ -1,0 +1,474 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6334213526241124103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 4d38611b-4656-4038-b043-c3c20f3f42ca
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Aber ich habe doch gar keine Ahnung davon, was du da in deinem B\xFCro
+    machst."
+  childNodes:
+  - 2ff28f72-cbab-434a-90c6-f39a1c9e66a9
+  rect:
+    serializedVersion: 2
+    x: 496.15097
+    y: 7.2453613
+    width: 200
+    height: 150
+  angerLevel: 10
+  isNonViolentAnswer: 0
+--- !u!114 &-5591079427910284208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 92c91a16-7351-4703-91a1-a6f77e03a185
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Sie ist sehr fokussiert und bringt durchdachte Vorschl\xE4ge. Und
+    sie wei\xDF, was sie will."
+  childNodes:
+  - c6b4cb14-8f0c-4ce0-a406-1ce1e32acbbd
+  rect:
+    serializedVersion: 2
+    x: 1797.1321
+    y: 119.54724
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-5374663729365606305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 05519113-dfbb-43c7-9ae5-e92925d0f403
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Das macht nichts. Du erz\xE4hlst denen einfach irgendwas. Mache
+    ich ja auch oft. Ich vertraue dir."
+  childNodes:
+  - 2014bce4-c4ed-4c1a-881a-e45234d2248a
+  rect:
+    serializedVersion: 2
+    x: 1156.151
+    y: 301.585
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-3906369533909934863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 0881c86b-f56a-4000-ae3e-2ea8cfdba374
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Mir w\xE4re es lieber, du fr\xE4gst jemand anderen."
+  childNodes:
+  - 3c6f67f7-02ba-4e36-80c4-481781ee1e52
+  rect:
+    serializedVersion: 2
+    x: 486.1887
+    y: 297.0567
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-2046392113347533210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 0de2f55b-80d0-47a8-ad6f-31b72700735d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Sie hat so eine hohe, d\xFCnne Stimme und kichert immer so."
+  childNodes:
+  - 92c91a16-7351-4703-91a1-a6f77e03a185
+  rect:
+    serializedVersion: 2
+    x: 1577.1321
+    y: 119.54724
+    width: 200
+    height: 150
+  angerLevel: 30
+  isNonViolentAnswer: 0
+--- !u!114 &-1397848004180038031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 2014bce4-c4ed-4c1a-881a-e45234d2248a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Ich will den Leuten aber nicht irgendwas erz\xE4hlen. Wenn ich was
+    sage, soll es Hand und Fu\xDF haben."
+  childNodes:
+  - 4cf451e9-12a5-4673-bad2-928c1192afc8
+  rect:
+    serializedVersion: 2
+    x: 1377.0566
+    y: 301.58496
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-1322777522246704505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 2ff28f72-cbab-434a-90c6-f39a1c9e66a9
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Das ist egal. Geht nur darum, dass jemand auf Anfragen reagiert.
+  childNodes:
+  - b9549893-3602-4ff8-be9d-bc1aee55033a
+  rect:
+    serializedVersion: 2
+    x: 715.2453
+    y: 8.151016
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-1185041466912947999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 3c6f67f7-02ba-4e36-80c4-481781ee1e52
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Darf ich fragen, warum?
+  childNodes:
+  - 6961cfdf-58c1-4ee3-b168-892b7c59c9ea
+  rect:
+    serializedVersion: 2
+    x: 716.151
+    y: 300.67932
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &-1114179499542739817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 8d78b75b-d747-4f83-8fb2-a3f3cf66ae82
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Ihr fehlt aber dieses Auftreten. Du hast diese nat\xFCrliche Autorit\xE4t."
+  childNodes:
+  - c593152e-e217-4285-9164-112b2ff1ff14
+  rect:
+    serializedVersion: 2
+    x: 1141.6604
+    y: 105.962326
+    width: 200
+    height: 150
+  angerLevel: 20
+  isNonViolentAnswer: 0
+--- !u!114 &-499509059803860490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: ab4ae3e3-b397-48b1-b5b7-67d4eb3499e8
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: 'Wir probieren das jetzt einfach mal aus. '
+  childNodes: []
+  rect:
+    serializedVersion: 2
+    x: 2287.849
+    y: 228.2265
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bbdec21d561b9a4fb5c446c163a592d, type: 3}
+  m_Name: Dialogue_Lili_Ken_Stellvertretung
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 1765022239135442204}
+  - {fileID: 7463404425167526176}
+  - {fileID: -6334213526241124103}
+  - {fileID: -1322777522246704505}
+  - {fileID: 6678985535934404697}
+  - {fileID: -1114179499542739817}
+  - {fileID: 5646614851559990919}
+  - {fileID: -2046392113347533210}
+  - {fileID: -5591079427910284208}
+  - {fileID: 6104891980481250688}
+  - {fileID: -499509059803860490}
+  - {fileID: -3906369533909934863}
+  - {fileID: -1185041466912947999}
+  - {fileID: 3265079249484422337}
+  - {fileID: -5374663729365606305}
+  - {fileID: -1397848004180038031}
+  - {fileID: 6229640373455436998}
+  - {fileID: 869377193176316818}
+--- !u!114 &869377193176316818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 61ed14e2-b1e9-43c3-a107-a922abd150ab
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Darum geht es nicht. Ich selbst wei\xDF es."
+  childNodes:
+  - ab4ae3e3-b397-48b1-b5b7-67d4eb3499e8
+  rect:
+    serializedVersion: 2
+    x: 1817.0566
+    y: 301.58496
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &1765022239135442204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 03c0fc07-4cb4-4e2e-bb68-948fe4e04748
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Gr\xFC\xDFe dich. Gehts dir gut?"
+  childNodes:
+  - 668377fa-9cc7-4076-8913-ad6cecaf25bb
+  rect:
+    serializedVersion: 2
+    x: 0.000022888184
+    y: 113.20764
+    width: 200
+    height: 200
+  angerLevel: 0
+  isNonViolentAnswer: 1
+--- !u!114 &3265079249484422337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 6961cfdf-58c1-4ee3-b168-892b7c59c9ea
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Ich wei\xDF nicht, mit wem du wor\xFCber redest. Ich kann mich nicht
+    einfach schnell in deine Themen reinarbeiten."
+  childNodes:
+  - 05519113-dfbb-43c7-9ae5-e92925d0f403
+  rect:
+    serializedVersion: 2
+    x: 940.6793
+    y: 300.67932
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &5646614851559990919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: c593152e-e217-4285-9164-112b2ff1ff14
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Ich nehme das als Kompliment. Danke dir. Aber Annette hat durchaus
+    Autorit\xE4t. Schaue sie dir mal genauer an."
+  childNodes:
+  - 0de2f55b-80d0-47a8-ad6f-31b72700735d
+  rect:
+    serializedVersion: 2
+    x: 1357.1321
+    y: 119.54724
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &6104891980481250688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: c6b4cb14-8f0c-4ce0-a406-1ce1e32acbbd
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Ich sehe sie nicht. Ich m\xF6chte gerne dich als Stellvertreterin."
+  childNodes:
+  - ab4ae3e3-b397-48b1-b5b7-67d4eb3499e8
+  rect:
+    serializedVersion: 2
+    x: 2017.1321
+    y: 119.54724
+    width: 200
+    height: 150
+  angerLevel: 10
+  isNonViolentAnswer: 0
+--- !u!114 &6229640373455436998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 4cf451e9-12a5-4673-bad2-928c1192afc8
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: Das merkt aber eh keiner.
+  childNodes:
+  - 61ed14e2-b1e9-43c3-a107-a922abd150ab
+  rect:
+    serializedVersion: 2
+    x: 1597.0566
+    y: 301.58496
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &6678985535934404697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: b9549893-3602-4ff8-be9d-bc1aee55033a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  dialoguePart: "Warum fragst du nicht Annette? Ich habe soviel zu tun und m\xF6chte
+    lieber weiter kommen, statt mich wieder mit fremden Themen zu besch\xE4ftigen."
+  childNodes:
+  - 8d78b75b-d747-4f83-8fb2-a3f3cf66ae82
+  rect:
+    serializedVersion: 2
+    x: 954.26416
+    y: 120.45291
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
+--- !u!114 &7463404425167526176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa69eb48ee707bc419001af9a8848be6, type: 3}
+  m_Name: 668377fa-9cc7-4076-8913-ad6cecaf25bb
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  dialoguePart: "Hi. Du. Ich brauche f\xFCr meinen Urlaub eine Vertretung. Ich m\xF6chte
+    dich als Stellvertreterin benennen."
+  childNodes:
+  - 4d38611b-4656-4038-b043-c3c20f3f42ca
+  - b9549893-3602-4ff8-be9d-bc1aee55033a
+  - 0881c86b-f56a-4000-ae3e-2ea8cfdba374
+  rect:
+    serializedVersion: 2
+    x: 261.6604
+    y: 118.64159
+    width: 200
+    height: 150
+  angerLevel: 0
+  isNonViolentAnswer: 0
