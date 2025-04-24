@@ -42,10 +42,6 @@ namespace RPG.Dialogue
         {
             return isPlayerSpeaking;
         }
-        public int GetAngerLevel()
-        {
-            return angerLevel;
-        }
 #if UNITY_EDITOR
         public void SetPosition(Vector2 newPosition)
         {
@@ -81,7 +77,10 @@ namespace RPG.Dialogue
             EditorUtility.SetDirty(this);
         }
 
-       
+        public int GetAngerLevel()
+        {
+            return angerLevel;
+        }
        
 
 #endif

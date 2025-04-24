@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using eMaginary;
-using UnityEditor;
+//using UnityEditor;
 using UnityEngine;
 using UnityEngine.Windows.WebCam;
 
@@ -15,8 +15,6 @@ namespace eMaginary.StateManagement
         {
             state = STATE.DISCUSSING;
             Debug.Log("Zustand: " + state.ToString());
-
-            EditorUtility.DisplayDialog("Was nun?", "Lili und Ken sind jetzt auf der Diskussionsplattform angekommen. Geniesst die Aussicht und erkundet die Diskussionsplattform ein wenig.", "Schlieﬂen");
         }
 
         public override void Enter()

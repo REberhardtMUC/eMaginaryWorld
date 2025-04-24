@@ -14,6 +14,8 @@ namespace RPG.Dialogue
 
         private void Awake()
         {
+        //    DialogueNode[] allNodes = currentDialogue.GetAllNodes().ToArray();
+        //    currentNode = allNodes[0];
             currentNode = currentDialogue.GetRootNode();
 
             Debug.Log(currentNode.GetDialoguePart());            

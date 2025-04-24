@@ -16,11 +16,9 @@ namespace RPG.UI
         [SerializeField] Animator anim_Lili;
         string _personStartingConversation;
         string _personOppositeConversation;
-        public GameObject txt_hintsAndHelp;
 
         private void Start()
-        {            
-            txt_hintsAndHelp = GameObject.Find("txt_hintsAndHelp");
+        {
             btn_Next.onClick.AddListener(Next);// not calling the function, just adding it!!!
             Update_FirstPerson();
         }
@@ -69,11 +67,11 @@ namespace RPG.UI
             {
                 if (SetUpDialogue.personStartingConversation == "Lili")
                 {
-                    txt_hintsAndHelp.GetComponent<TextMeshProUGUI>().text = "Wähle die Steuerung von Ed mit Taste 3 und lass ihn zur Diskussionsplattform laufen.";
+                    EditorUtility.DisplayDialog("Was nun?", "Wähle die Steuerung von Ed mit Taste 3 und laufe als Ed zur Diskussionsplattform.", "Schließen");
                 }
                 else if (SetUpDialogue.personStartingConversation == "Ed")
                 {
-                    txt_hintsAndHelp.GetComponent<TextMeshProUGUI>().text = "Hole Ken ab und verlasse mit ihm die Diskussionsplattform. Ken wird dir folgen und unterwegs könnt ihr plaudern.";
+                    EditorUtility.DisplayDialog("Was nun?", "Verlasse als Ed die Diskussionsplattform. Ken wird dir folgen.", "Schließen");
                     playerConversant.currentDialogue = playerConversant.followUpDialogue;
                 }
                 StartDialogue.showHint = false;

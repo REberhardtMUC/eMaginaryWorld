@@ -6,6 +6,7 @@ using Unity.VisualScripting;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.Windows.WebCam;
+using TMPro;
 
 namespace eMaginary.StateManagement
 {
@@ -33,8 +34,8 @@ namespace eMaginary.StateManagement
             lookWhoIsFollowing_Cam = charFollowed_A.GetComponentInChildren<Camera>();
             if (activeTag == "Lili")
             {
-                EditorUtility.DisplayDialog("Was nun?", "Laufe als Lili den Bachlauf entlang. Ken wird dir folgen. Steige nicht am Magic Lift aus, sondern laufe weiter bis zum Ende des Wasserlaufes." +
-                  "Wenn du Ken abh‰ngst, kann er mit der Taste 1 selbst hinterherlaufen. Mit der Taste 4 wechselst du wieder zu Lili.", "Schlieﬂen");
+                txt_hintsAndHelp.GetComponent<TextMeshProUGUI>().text = "Laufe als Lili den Bachlauf entlang. Ken wird dir folgen. Steige nicht am Magic Lift aus, sondern laufe weiter bis zum Ende des Wasserlaufes." +
+                  "Wenn du Ken abh‰ngst, kann er mit der Taste 1 selbst hinterherlaufen. Mit der Taste 4 wechselst du wieder zu Lili.";
                 InputHandler_onEnter.canSetKen = true;
 
             }

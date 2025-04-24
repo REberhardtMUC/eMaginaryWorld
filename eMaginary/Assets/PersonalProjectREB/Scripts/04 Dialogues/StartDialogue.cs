@@ -8,7 +8,7 @@ namespace RPG.Dialogue
     {
         [SerializeField] GameObject img_UIContainer;
         [SerializeField] GameObject angerOMeter;
-        [SerializeField] GameObject cam_Lili;
+        [SerializeField] GameObject cam_angerBar;
         Component cmp_playerConversant;
         public static bool kickAss = true;
         public static bool showHint = true;
@@ -30,7 +30,7 @@ namespace RPG.Dialogue
                     SetUpDialogue.personOppositeConversation = "Ken";
                     img_UIContainer.SetActive(true);
                     angerOMeter.SetActive(true);
-                    cam_Lili.SetActive(true);
+                    cam_angerBar.GetComponent<Camera>().enabled = true;
                 }
             }
             else if (this.gameObject.CompareTag("Ed"))
@@ -41,7 +41,7 @@ namespace RPG.Dialogue
                     SetUpDialogue.personOppositeConversation = "Lili";
                     img_UIContainer.SetActive(true);
                     angerOMeter.SetActive(true);
-                    cam_Lili.SetActive(true);
+                    cam_angerBar.GetComponent<Camera>().enabled = true;
                 }
             }
             else if (this.gameObject.CompareTag("Ken"))

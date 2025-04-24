@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
-using static UnityEditor.Experimental.GraphView.GraphView;
+//using static UnityEditor.Experimental.GraphView.GraphView;
 
 namespace eMaginary.StateManagement
 {
@@ -36,6 +36,8 @@ namespace eMaginary.StateManagement
         float distance = 6.0f;
         float visAngle = 30.0f;
 
+        public GameObject txt_hintsAndHelp;
+
 
         //public State(GameObject _charFollowing, Animator _anim, IEnumerator<GameObject> _charactersInGame)
         public State(GameObject _charFollowing, Animator _anim, GameObject _charFollowed_A, GameObject _charFollowed_B, GameObject _charFollowed_C)
@@ -46,6 +48,8 @@ namespace eMaginary.StateManagement
             charFollowed_B = _charFollowed_B;
             charFollowed_C = _charFollowed_C;
             anim = _anim;
+
+            txt_hintsAndHelp = GameObject.Find("txt_hintsAndHelp");
 
             stage = EVENT.ENTER;
         }
