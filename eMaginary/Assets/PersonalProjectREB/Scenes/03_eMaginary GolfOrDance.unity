@@ -37361,7 +37361,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Spiel an den Anfang zur\xFCcksetzen: Dr\xFCcken der ESC-Taste."
+  m_text: "Spiel an den Anfang der Szene zur\xFCcksetzen: Dr\xFCcken der R-Taste
+    (R = reset):"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -38384,7 +38385,7 @@ MonoBehaviour:
     \nKommt Ken in die N\xE4he von She-Ken oder Ed, l\xE4uft er der Person hinterher
     (Die Steuerung wechselt automatisch auf She-Ken oder Ed).\n\nDreht sich die Person
     zum ihm um, macht Ken, was sie macht. \n\nMit der Taste 1 kann Ken sich befreien
-    und ganz er selbst sein.\n\nHat Ken beides ausprobiert, erwarten ihn neue Herausforderungen.\n\n(Fenster
+    und ganz er selbst sein.\n\nHat Ken beides ausprobiert, erwarten ihn neue Herausforderungen.\n\n(Info
     schlie\xDFen mit Klick auf X)"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
