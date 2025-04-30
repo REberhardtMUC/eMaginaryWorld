@@ -11520,17 +11520,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1399644745498607191, guid: d0f672b31535eaa4698bed0008ca8c6e, type: 3}
-      propertyPath: m_text
-      value: "In dieser Szene treffen wir auf zwei neue Personen, die einerseits
-        ihre eigenen Bewegungsabl\xE4ufe haben, andererseits auch aufeinander reagieren.\n\nZiel
-        ist es, dass die beiden sich h\xE4ufig begegnen.\n\nDu kannst sie dabei unterst\xFCtzen:
-        hole dir eine tempor\xE4re Superpower in der Sprudels\xE4ule - dann l\xE4uft
-        er dir hinterher und du kannst ihn in ihre Richtung locken.\n\nBeachte:\nNach
-        jeder Begegnung brauchen die beiden erst wieder etwas Abstand, bevor sie
-        sich wieder \xFCber eine Begegnung freuen k\xF6nnen.\n\n(Info schlie\xDFen
-        mit Klick auf X)"
-      objectReference: {fileID: 0}
     - target: {fileID: 1823202467414980266, guid: d0f672b31535eaa4698bed0008ca8c6e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 

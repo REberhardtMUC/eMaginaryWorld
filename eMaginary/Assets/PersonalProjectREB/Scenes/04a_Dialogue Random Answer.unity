@@ -7110,7 +7110,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Schau dir an, welche Diskussionen in der Begegnung stattfinden.\n\nBeachte,
-    wie das anger-o-meter von Lili sich \nmit jeder Antwort ver\xE4ndert.\n\n(Info
+    wie das anger-o-meter von Lili sich \nmit jeder Antwort ver\xE4ndert.\n\n(Fenster
     schlie\xDFen mit Klick auf X)"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -13617,8 +13617,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Spiel an den Anfang der Szene zur\xFCcksetzen: Dr\xFCcken der R-Taste
-    (R = reset):"
+  m_text: "Spiel an den Anfang zur\xFCcksetzen: Dr\xFCcken der R-Taste (Reset)."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

@@ -18192,7 +18192,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Steuerung: \nMausbewegung und \nWASD- oder Pfeiltasten\n\nHinweis:\nDer
     Bewegungsradius in der Landschaft ist begrenzt. \nWenn du auf offener Wiese nicht
-    weiterlaufen kannst, dreh einfach um.\n\n(Info schlie\xDFen: Klick auf X)"
+    weiterlaufen kannst, dreh einfach um.\n\n(Dieses Fenster schlie\xDFen: Klick
+    auf X)"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -38110,7 +38111,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Spiel an den Anfang zur\xFCcksetzen: Dr\xFCcken der k-R-Taste (R = reset):"
+  m_text: "Spiel an den Anfang zur\xFCcksetzen: Dr\xFCcken der ESC-Taste."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
