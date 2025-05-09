@@ -6,7 +6,11 @@ public class Item : MonoBehaviour
     public RadarEvent dropped;
     public RadarEvent pickUp;
     public Image icon;
-    int numItems = 0;
+
+    public Animator anim;
+    public GameObject effect_PickUp;
+    //public GameObject gifts_UI;
+    //public GameObject icon_gift;
 
     void Start()
     {
@@ -18,12 +22,28 @@ public class Item : MonoBehaviour
         if(other.gameObject.tag == "Ken")
         {
             pickUp.Occured(this.gameObject);
-            this.GetComponent<MeshRenderer>().enabled = false;
-            this.GetComponent<Collider>().enabled = false;
-            Destroy(this.gameObject, 5);
-            Debug.Log("Picked up an object " + numItems++);
+            //this.GetComponent<MeshRenderer>().enabled = false;         
+
+            //ShowUIPickUp();
+            
+            anim.SetTrigger("openLid");
+            effect_PickUp.SetActive(true);
+
+            //gifts_UI.SetActive(true);
+            //icon_gift.SetActive(true);
+
+            //this.GetComponent<BoxCollider>().enabled = false;
+
+            //Destroy(this.gameObject);
+            Debug.Log("Picked up an object ");
         }
        
+    }
+
+    public void ShowUIPickUp()
+    {
+        //presents_UI.SetActive(true);
+        //icon_present.SetActive(true);
     }
 
 

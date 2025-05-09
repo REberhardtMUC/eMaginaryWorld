@@ -14,7 +14,8 @@ public class Radar : MonoBehaviour
     public Transform playerPos;
     //[SerializeField] GameObject info_itemPickedUp;
 
-    float mapScale = 2.0f;
+    //float mapScale = 2.0f;
+    float mapScale = 0.7f;
 
     public static List<RadarObject> radObjects = new List<RadarObject>();
 
